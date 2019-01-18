@@ -14,7 +14,7 @@ require_once ("mycontacts_open.inc");
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <script type="text/javascript" src="http://www.pureexample.com/js/lib/jquery-1.8.3.min.js"></script>
 <script type="text/javascript" src="http://www.pureexample.com/js/flot/jquery.flot.min.js"></script>
-    <title>How to Integrate Google “No CAPTCHA reCAPTCHA” on Your Website</title>
+<title>How to Integrate Google “No CAPTCHA reCAPTCHA” on Your Website</title>
 
 </head>
 <body>

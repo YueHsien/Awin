@@ -90,7 +90,7 @@ if (isset ( $_POST ["account"] ) && isset ( $_POST ["password"] ) && isset ( $_P
 						}
 							echo $sql;
 							echo "<script>alert('註冊成功!');</script>";
-
+						break;
 						}
 						if($address=="user"){
 						$sql = "INSERT INTO permission (position,name,remove,queryadmin,queryuser,queryguest) values('" .$address. "','" .$name. "','No','No','No','Yes')";
@@ -99,6 +99,7 @@ if (isset ( $_POST ["account"] ) && isset ( $_POST ["password"] ) && isset ( $_P
 							echo $sql;
 							echo "<script>alert('註冊成功!');</script>";
 							header("Refresh:0;url=first.php");
+						break;
 						}
 						if($address=="guest"){
 							$sql = "INSERT INTO permission (position,name,remove,queryadmin,queryuser,queryguest) values('" .$address. "','" .$name. "','No','No','No','No')";
@@ -107,6 +108,7 @@ if (isset ( $_POST ["account"] ) && isset ( $_POST ["password"] ) && isset ( $_P
 							echo $sql;
 							echo "<script>alert('註冊成功!');</script>";
 							header("Refresh:0;url=first.php");
+						break;
 						}
 				}
 				}
