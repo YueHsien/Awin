@@ -5,6 +5,9 @@
 3.工具:Filezilla、HeidiSQL
 4.網站語言:PHP、JS、Jquery
 
+網站流程:
+![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%9617.png)
+
 房地產資料庫:
 ![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%961.PNG)
 說明:利用Excel轉CSV匯入。
