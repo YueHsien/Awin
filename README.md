@@ -70,7 +70,7 @@
 ![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%9612.PNG)
 
 admin刪除資料:
-![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%9615.PNG)
+![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%9624.PNG)
 
 圖形化觀察房地產:
 1.主頁面:
