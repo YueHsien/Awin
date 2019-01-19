@@ -1,12 +1,17 @@
 本網站利用Azure進行架設網站及Database等運作，網址:https://yuehsienmysql.azurewebsites.net/first.php
+
 使用工具:
+
 1.架站:Microsoft Azure
+
 2.資料庫:Mysql
+
 3.工具:Filezilla、HeidiSQL
+
 4.網站語言:PHP、JS、Jquery
 
 網站流程:
-![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%9617.png)
+![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%9618.png)
 
 房地產資料庫:
 ![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%961.PNG)
@@ -37,17 +42,23 @@
 進行房地產資料查詢:
 1.主頁面
 ![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%968.PNG)
-假如選擇全部，不選擇面積或是每坪金額直接查詢，則顯示全部資料，而使用者跟選案表格的排序來方便尋找自己的資料。
+假如選擇全部，不選擇面積或是每坪金額直接查詢，則顯示全部資料，而使用者可以利用表格的排序來方便尋找自己的資料。
 該圖表利用Jquery套件完成。
 ![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%969.PNG)
 基於以上原則:
 將有幾種情況:
 1.選擇"全部"，坪數有範圍金額有範圍。
+
 2.選擇"全部"，坪數有範圍金額沒範圍。
+
 3.選擇"全部"，坪數沒範圍金額有範圍。
+
 4.不選擇"全部"，坪數有範圍金額有範圍。
+
 5.不選擇"全部"，坪數有範圍金額沒範圍。
+
 6.不選擇"全部"，坪數沒範圍金額有範圍。
+
 將根據使用者的輸入決定範圍。
 
 觀看他人資料(根據權限區分)
