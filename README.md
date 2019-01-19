@@ -82,6 +82,28 @@ Azure流程:
 
 ![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%9616.png)
 
+Azure成果介面:
+
+所有資源:
+
+![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%9619.PNG)
+
+FTP服務:
+
+![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%9620.PNG)
+
+Filezilla:
+
+![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%9621.PNG)
+
+Azure Mysql:
+
+![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%9622.PNG)
+
+Heidi:
+
+![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%9623.PNG)
+
 網站心得:
   本次作業讓我學習到許多，首先我以前不常用Github，不了解它有什麼優點還要花時間去架設，因為平常作業都是直接交檔案即可，因此很少接觸。但在這次作業的指導下，我了解Github的運作情況，而且未來Github就像工程師的臉書，勢必以後是找工作的一大指標參考，而且如果是大型開發案，要很多人參與開發需要一個平台可以看到別人或是自己修改了甚麼程式碼，都可以利用Github來完成同步。
   Azure是一套微軟的虛擬機服務，它提供許多的方便的服務，以學生前提下可以申請一個學生帳號，即可享用裡面眾多的服務，資料庫服務、架設網站是我這次作業學到的經驗，可以免費快速架設一個伺服器，且也藉機多了解了FTP的運作方式。而MySQL在Azure並非Default的資料庫，因此需要找Azure Database for Mysql這個資源才能完成，但也因此沒有介面，所以我使用Heidi這套系統，也是免費好用的Mysql介面，可以輸入資料庫伺服器名稱和密碼即可操作。
