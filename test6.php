@@ -136,7 +136,7 @@ body {
             <br />
             <label font-size="25">密碼:</label>
 			<input type="password" height="30px" width="230px" name="Password">
-      <div class="g-recaptcha" data-sitekey="6LdL1YgUAAAAANd9UROI4QNXdImOeR_2LiIFcERx"></div>
+      <div class="g-recaptcha" data-sitekey="6LenBYsUAAAAAK81v6sYqawQAB6CBERmonaT11af"></div>
 		            <button type="submit">登入</button>　
 					
     </form>

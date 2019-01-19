@@ -71,7 +71,7 @@ if (isset ( $_POST ["account"] ) && isset ( $_POST ["password"] ) && isset ( $_P
 			
 		}
 		if($a>=1&&$b>=1&&$c>=1){
-			$link = mysqli_connect ( "localhost", "root", "", "awin" ) or die ( "無法開啟MySQL資料庫連接!<br/>" );
+			$link = mysqli_connect ( "yuehsienmysql-mysqldbserver.mysql.database.azure.com", "sqladmin@yuehsienmysql-mysqldbserver", "Cd717630", "awin" ) or die ( "無法開啟MySQL資料庫連接!<br/>" );
 			$sql = "SELECT * FROM users";
 			$result = mysqli_query ( $link, $sql );
 				while ( $row = mysqli_fetch_assoc ( $result ) ) {
