@@ -37,7 +37,7 @@
 進行房地產資料查詢:
 1.主頁面
 ![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%968.PNG)
-假如選擇全部，不選擇面積或是每坪金額直接查詢，則顯示全部資料，而使用者跟選案表格的排序來方便尋找自己的資料。
+假如選擇全部，不選擇面積或是每坪金額直接查詢，則顯示全部資料，而使用者可以利用表格的排序來方便尋找自己的資料。
 該圖表利用Jquery套件完成。
 ![image](https://github.com/YueHsien/Awin/blob/master/images/%E6%93%B7%E5%8F%969.PNG)
 基於以上原則:
