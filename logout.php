@@ -10,7 +10,7 @@ session_start();
 session_unset();
 session_destroy();
 echo "即將登出!請稍後";
-header("Refresh: 2; url=first.php");
+header("Refresh: 0; url=first.php");
 ?>
 </body>
 </html>
